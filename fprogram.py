@@ -1,0 +1,5 @@
+print("python")
+print("Luck")
+# print(7,8 (7+9))
+print(7/8)
+# print("Python first program about how to use print")
